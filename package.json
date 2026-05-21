@@ -1,0 +1,31 @@
+{
+  "name": "rh-curriculos",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "16.2.6",
+    "react": "19.2.6",
+    "react-dom": "19.2.6",
+    "react-hook-form": "7.76.0",
+    "@hookform/resolvers": "5.2.2",
+    "yup": "1.7.1",
+    "sonner": "2.0.7",
+    "lucide-react": "1.16.0"
+  },
+  "devDependencies": {
+    "typescript": "6.0.3",
+    "@types/react": "19.2.14",
+    "@types/react-dom": "19.2.3",
+    "tailwindcss": "3.4.4",
+    "postcss": "8.5.14",
+    "autoprefixer": "10.5.0",
+    "@types/yup": "0.29.14",
+    "@types/node": "25.8.0"
+  }
+}
